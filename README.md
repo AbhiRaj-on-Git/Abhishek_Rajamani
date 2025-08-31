@@ -48,6 +48,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+<a href="https://learn.mastermindassurance.com/certificates/6gt94epedk" target="_blank">
+<img src="https://img.shields.io/badge/-ISO%2FIEC%2027001%3A2022-0033A0?style=for-the-badge&logoColor=white" />
+</a>
+    
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BZOWGMGPBX.pdf" target="_blank">
   <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>

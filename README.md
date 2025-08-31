@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <!-- <H6>Supported a client in a cyber security breach </H6> -->
 <!-- <H6>Answered questions to identify suspicious user activity </H6> -->
 
-## Skills
+<!--## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
@@ -26,7 +26,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab| -->
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -83,8 +83,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/AbhiRaj-on-Git/cloud_based-soc" >Cloud Based SOC</a>
+<!-- - SOC Automation Project -->
 
 ## Activities
 

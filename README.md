@@ -1,5 +1,4 @@
-# Hello, I'm Abhishek
-<h3>Welcome to my page</h3>
+# Hello, I'm Abhishek <h3>Welcome to my page</h3>
 
 <a href="www.linkedin.com/in/abhishek-rajamani-44a488379"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 

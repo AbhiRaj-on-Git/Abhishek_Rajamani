@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <H6>Answered questions to identify suspicious user activity </H6> 
 
 <!--## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -26,7 +26,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
  -->
 
 ## Certifications
-<!--[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]-->
+
 
 <div>
 <a href="https://learn.mastermindassurance.com/certificates/6gt94epedk" target="_blank">
@@ -57,7 +57,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Tools
-<!--[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]-->
 
 ### Network
 <div>

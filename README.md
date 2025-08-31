@@ -13,9 +13,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Virtual Experience 
 
 <img src="https://img.shields.io/badge/-Deloitte%20Cyber%20Job%20Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" />
-<H6>Completed a job simulation involving reading web activity logs </H6>
-<H6>Supported a client in a cyber security breach </H6>
-<H6>Answered questions to identify suspicious user activity </H6> 
+<H5>Completed a job simulation involving reading web activity logs </H5>
+<H5>Supported a client in a cyber security breach </H5>
+<H5>Answered questions to identify suspicious user activity </H5> 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]

@@ -29,7 +29,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab| -->
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<!--[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]-->
 <div>
 <a href="https://learn.mastermindassurance.com/certificates/6gt94epedk" target="_blank">
 <img src="https://img.shields.io/badge/-ISO%2FIEC%2027001%3A2022%20Lead%20Auditor-0033A0?style=for-the-badge&logo=trustedshops&logoColor=white" />

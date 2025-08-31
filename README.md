@@ -45,6 +45,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+## Virtual Experience 
+
+<img src="https://img.shields.io/badge/-Deloitte%20Cyber%20Job%20Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" />
+
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
@@ -76,9 +80,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Virtual Experience 
 
-<img src="https://img.shields.io/badge/-Deloitte%20Cyber%20Job%20Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" />
 
 ## Projects
 - Detection Lab

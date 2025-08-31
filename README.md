@@ -52,7 +52,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
 <a href="https://app.letsdefend.io/certificate/show/8598c736-6258-4053-b226-850ce568ecac" target="_blank">
-  <img src="https://img.shields.io/badge/-LetsDefend-0A192F?style=for-the-badge&logo=letsdefend&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LetsDefend%20SOC-0A192F?style=for-the-badge&logo=letsdefend&logoColor=white" />
 </a>
 <a href="https://letsdefend-cert-link-here" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-LetsDefend%20Programming%20for%20Cybersecurity-0A192F?style=for-the-badge&logo=letsdefend&logoColor=white" />

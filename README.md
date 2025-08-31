@@ -47,16 +47,19 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BZOWGMGPBX.pdf" target="_blank" rel="noopener noreferrer">
+###<div>
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BZOWGMGPBX.pdf" target="_blank">
   <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+<a href="https://app.letsdefend.io/certificate/show/8598c736-6258-4053-b226-850ce568ecac" target="_blank">
+  <img src="https://img.shields.io/badge/-LetsDefend-0A192F?style=for-the-badge&logo=letsdefend&logoColor=white" />
 </a>
 
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+###</div>
 
 ## Projects
 - Detection Lab

@@ -54,7 +54,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://app.letsdefend.io/certificate/show/8598c736-6258-4053-b226-850ce568ecac" target="_blank">
   <img src="https://img.shields.io/badge/-LetsDefend%20SOC-0A192F?style=for-the-badge&logo=letsdefend&logoColor=white" />
 </a>
-<a href="https://letsdefend-cert-link-here" target="_blank" rel="noopener noreferrer">
+<a href="https://app.letsdefend.io/certificate/show/5f454f0c-5021-4a3a-be77-7a84744cb296" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-LetsDefend%20Programming%20for%20Cybersecurity-0A192F?style=for-the-badge&logo=letsdefend&logoColor=white" />
 </a>
 

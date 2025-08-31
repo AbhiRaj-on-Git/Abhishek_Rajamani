@@ -1,7 +1,7 @@
 # Hello, I'm Abhishek
 <a href="www.linkedin.com/in/abhishek-rajamani-44a488379"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction]
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
@@ -47,7 +47,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-
+<div>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BZOWGMGPBX.pdf" target="_blank">
   <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
@@ -58,11 +58,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/-LetsDefend%20Programming%20for%20Cybersecurity-0A192F?style=for-the-badge&logo=letsdefend&logoColor=white" />
 </a>
 
+<a href="https://app.letsdefend.io/certificate/show/5f454f0c-5021-4a3a-be77-7a84744cb296" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/badge/-Oracle%20Certified%20OCI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</a>
+
+
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-
+</div>
 
 ## Projects
 - Detection Lab

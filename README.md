@@ -91,7 +91,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <h4>Cybersecurity Awareness Initiative</h4>
 
-[Led an initiative to educate peers on cybersecurity]
+[Led an initiative to educate peers on cybersecurity in college]
 
 <a href="https://abhiraj-on-git.github.io/MyWebsite/cybersecurityawareness.html"/>
 <img src="https://img.shields.io/badge/View-white?style=for-the-badge&logoColor=black&color=white&labelColor=white" />

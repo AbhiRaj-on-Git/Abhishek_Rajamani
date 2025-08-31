@@ -13,8 +13,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_d442pQ7kaFE9oeHtu_1756561993595_completion_certificate.pdf">
 <img src="https://img.shields.io/badge/-Deloitte%20Cyber%20Job%20Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" /> </a>
 <H6>Completed a job simulation involving reading web activity logs </H6>
-<H6>Supported a client in a cyber security breach </H6>
-<H6>Answered questions to identify suspicious user activity </H6> 
+###<H6>Supported a client in a cyber security breach </H6>
+###<H6>Answered questions to identify suspicious user activity </H6> 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]

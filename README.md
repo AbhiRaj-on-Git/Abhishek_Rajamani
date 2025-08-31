@@ -58,10 +58,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/-LetsDefend%20Programming%20for%20Cybersecurity-0A192F?style=for-the-badge&logo=letsdefend&logoColor=white" />
 </a>
 
-<a href="https://app.letsdefend.io/certificate/show/5f454f0c-5021-4a3a-be77-7a84744cb296" target="_blank" rel="noopener noreferrer">
+<a href="https://app.letsdefend.io/certificate/show/5f454f0c-5021-4a3a-be77-7a84744cb296" target="_blank" rel="noopener noreferrer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=72A41C3D54D88B267AE5D9B5B36BB734D403EBD708008023C38D561903638E00">
    <img src="https://img.shields.io/badge/-Oracle%20Certified%20OCI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </a>
 
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=46C295737C97CD40BCD8A44BBDE886419D2E2C570C294C25D321DF1C773BA265">
+   <img src="https://img.shields.io/badge/-Oracle%20Certified%20AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</a>
 
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />

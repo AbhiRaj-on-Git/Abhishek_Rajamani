@@ -82,11 +82,18 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 
-
-
-
-
-
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+## Activities
+
+<h2>Cybersecurity Awareness Initiative</h2>
+
+<h3>Led an initiative to educate peers on cybersecurity</h3> 
+
+<a href="https://abhiraj-on-git.github.io/MyWebsite/cybersecurityawareness.html"/>
+<img src="https://img.shields.io/badge/-View-0033A0?style=for-the-badge&logo=trustedshops&logoColor=white" />
+</a/>
+
+

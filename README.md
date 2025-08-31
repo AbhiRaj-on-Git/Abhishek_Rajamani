@@ -71,12 +71,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
    <img src="https://img.shields.io/badge/-Oracle%20Certified%20AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </a>
 
-<img src="https://img.shields.io/badge/-Deloitte%20Cyber%20Job%20Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" />
-
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
+
+## Virtual Experience 
+
+<img src="https://img.shields.io/badge/-Deloitte%20Cyber%20Job%20Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" />
 
 ## Projects
 - Detection Lab

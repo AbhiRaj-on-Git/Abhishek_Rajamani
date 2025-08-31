@@ -89,7 +89,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Activities
 
 
-<h2>Cybersecurity Awareness Initiative</h2>
+<h4>Cybersecurity Awareness Initiative</h4>
 
 [Led an initiative to educate peers on cybersecurity]
 

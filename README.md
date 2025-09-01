@@ -10,11 +10,30 @@ I am a recent graduate with a profound interest in technology and a dedication t
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Virtual Experience 
+
+Tata Cybersecurity Security Analyst Job Simulation on Forage - September 2025
+
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_d442pQ7kaFE9oeHtu_1756734826641_completion_certificate.pdf">
+<img src="https://img.shields.io/badge/-Tata%20Cybersecurity-0076BC?style=for-the-badge&logo=tata&logoColor=white" /> </a>
+
+<h6>Completed a job simulation involving identity and access management (IAM) for
+   Tata Consultancy Services, collaborating with a Cybersecurity Consulting
+   team.</h6>
+<h6>Acquired expertise in IAM principles, cybersecurity best practices, and
+   strategic alignment with business objectives.</h6>
+<h6>Delivered comprehensive documentation and presentations, showcasing the
+   ability to communicate complex technical concepts effectively.</h6>
+   
+
+Deloitte Australia Cyber Job Simulation on Forage - August 2025
+
 <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_d442pQ7kaFE9oeHtu_1756561993595_completion_certificate.pdf">
 <img src="https://img.shields.io/badge/-Deloitte%20Cyber%20Job%20Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" /> </a>
 <H6>Completed a job simulation involving reading web activity logs </H6>
 <H6>Supported a client in a cyber security breach </H6>
 <H6>Answered questions to identify suspicious user activity </H6> 
+
+
 
 <!--## Skills
 

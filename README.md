@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 Mastercard Cybersecurity virtual experience program on Forage - September 2025
 
 <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_d442pQ7kaFE9oeHtu_1756893613820_completion_certificate.pdf">
-<img src="https://img.shields.io/badge/-Mastercard-EB001B?style=for-the-badge&logo=mastercard&logoColor=white" />
+<img src="https://img.shields.io/badge/-Mastercard-EB001B?style=for-the-badge&logo=mastercard&logoColor=white" /></a>
 
 <h6>Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team</h6>
 <h6>Helped identify and report security threats such as phishing</h6>

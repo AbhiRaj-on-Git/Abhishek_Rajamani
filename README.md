@@ -14,6 +14,18 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Virtual Experience 
 
+AIG Shields Up: Cybersecurity virtual experience program on Forage - September 2025
+
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4nAmAbTbHbnGMNSyo/2ZFnEGEDKTQMtEv9C_4nAmAbTbHbnGMNSyo_d442pQ7kaFE9oeHtu_1756993206167_completion_certificate.pdf">
+<img src="<img src="https://img.shields.io/badge/-AIG-003DA5?style=for-the-badge&logo=aig&logoColor=white" /></a>
+
+<h6>Completed a cybersecurity threat analysis simulation for the Cyber Defense Unit, staying updated on CISA publications.</h6>
+ <h6>Researched and understood reported vulnerabilities, showcasing analytical skills in cybersecurity.</h6>
+ <h6>Drafted a clear and concise email to guide teams on vulnerability remediation.</h6>
+ <h6>Utilized Python skills to write a script for ethical hacking, avoiding ransom payments by bruteforcing decryption keys.</h6>
+
+<h3>------------------------------------------------------------------------------------------------</h3>
+
 Mastercard Cybersecurity virtual experience program on Forage - September 2025
 
 <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_d442pQ7kaFE9oeHtu_1756893613820_completion_certificate.pdf">

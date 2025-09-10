@@ -14,6 +14,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 AIG Shields Up: Cybersecurity virtual experience program on Forage - September 2025
 
+[![AIG](https://img.shields.io/badge/AIG-Official-blue?style=for-the-badge)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4nAmAbTbHbnGMNSyo/2ZFnEGEDKTQMtEv9C_4nAmAbTbHbnGMNSyo_d442pQ7kaFE9oeHtu_1756993206167_completion_certificate.pdf)
+
+
 <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4nAmAbTbHbnGMNSyo/2ZFnEGEDKTQMtEv9C_4nAmAbTbHbnGMNSyo_d442pQ7kaFE9oeHtu_1756993206167_completion_certificate.pdf">
 <img src="https://img.shields.io/badge/-AIG-003DA5?style=for-the-badge&logo=aig&logoColor=white" /></a>
 
